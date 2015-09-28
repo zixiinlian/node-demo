@@ -1,2 +1,2 @@
-# node-practive
+# node-practice
 just practice node for myself
